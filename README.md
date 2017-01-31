@@ -1,1 +1,1 @@
-# magento2-nginx
+# magento2-nginx:1.11
